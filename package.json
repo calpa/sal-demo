@@ -8,6 +8,7 @@
     "@fortawesome/fontawesome-svg-core": "latest",
     "@fortawesome/free-solid-svg-icons": "latest",
     "@fortawesome/react-fontawesome": "latest",
+    "node-sass": "latest",
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "react-scripts": "2.0.3",
